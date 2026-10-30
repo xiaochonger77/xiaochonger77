@@ -1,71 +1,129 @@
 <div align="center">
-  <a href="https://github.com/xiaochonger77">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FC08D&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+ChongEr_Xiao;独立开发者+%7C+Vue+Developer;Crafting+MockForge" />
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=xiaochonger77&color=4FC08D&style=flat-square&label=Visitors" alt="visitors"/>
-  <br><br>
-  <h3>✨ 专注打造好用的前端工具</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF2A6D&center=true&vCenter=true&width=700&lines=Hi,+I'm+ChongEr_Xiao;Welcome+to+my+code+universe;Building+MockForge+with+Vue;Let's+craft+something+cool" />
+
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=xiaochonger77&color=FF2A6D&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open-Source-10b981?style=flat-square&logo=github" alt="open source" />
+  <img src="https://img.shields.io/badge/Project-MockForge-3b82f6?style=flat-square" alt="mockforge" />
+  <img src="https://img.shields.io/badge/Status-Active-FF2A6D?style=flat-square" alt="status" />
+
 </div>
 
-<br>
+<br />
 
----
+## 🚀 Who Am I?
 
-## 🧑‍💻 About Me
-<div align="left">
-  <p>
-    &nbsp;&nbsp;🎯 独立开发，主力技术栈 Vue，正在持续迭代开源桌面项目 <strong>MockForge</strong>
-    <br>
-    &nbsp;&nbsp;⚡ 目标：提供轻量化、开箱即用的本地 Mock 接口服务，简化前端调试流程
-    <br>
-    &nbsp;&nbsp;💬 交流渠道：仓库 Issue，欢迎反馈功能想法与 Bug
-  </p>
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&width=700&multiline=true&lines=ChongEr_Xiao+·+枭宠儿;Independent+Developer+·+Vue+Frontend;Building+MockForge+-+A+Local+Mock+API+Desktop+Tool" />
 </div>
+
+### Focus
+
+- 🔨 Building **MockForge**
+- 🧪 Local mock & API simulation
+- 🖥️ Windows desktop app with Vue
+- ⚡ Fast, lightweight, developer-focused
+
 
 ## 🛠️ Tech Stack
+
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </div>
 
-<br>
 
-## 📈 GitHub Dashboard
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaochonger77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaochonger77&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="320"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaochonger77&theme=tokyonight&hide_border=true&background=00000000" width="520"/>
-</div>
 
-<br>
-
-## 🚀 Featured Project · MockForge
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>MockForge</h3>
-        <p>轻量本地 Mock 桌面工具 | Windows x64</p>
-        <p>快速创建模拟接口，支持自定义返回数据，前端开发调试利器</p>
-        <a href="https://github.com/xiaochonger77/mock-forge">📂 仓库主页</a>
-        &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com/xiaochonger77/mock-forge/releases">📥 下载安装包</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
+### 🧩 Tools & Others
 ---
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+</div>
+
+
+## 🔥 MockForge — The Highlight Project
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=94a3b8&center=true&vCenter=true&width=450&lines=Keep+coding;Build+better+tools" />
-  <br>
-  <sub>Made with 💚 by ChongEr_Xiao</sub>
+  <img src="https://img.shields.io/badge/⭐_Star-MockForge-FFD700?style=for-the-badge" alt="star mockforge" />
+  <img src="https://img.shields.io/badge/📦_Release-v1.0.0-3b82f6?style=for-the-badge" alt="release" />
+  <img src="https://img.shields.io/badge/💻_Windows-x64-0078D6?style=for-the-badge" alt="windows" />
 </div>
+
+
+███╗   ███╗ ██████╗██╗  ██╗███████╗███╗   ██╗██╗██╗  ██╗
+████╗ ████║██╔════╝██║ ██╔╝██╔════╝████╗  ██║██║╚██╗██╔╝
+██╔████╔██║██║     █████╔╝ █████╗  ██╔██╗ ██║██║ ╚███╔╝
+██║╚██╔╝██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║ ██╔██╗
+██║ ╚═╝ ██║╚██████╗██║  ██╗███████╗██║ ╚████║██║██╔╝ ██╗
+╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
+
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
+**MockForge**
+Local Mock API Desktop Tool
+
+Create mock endpoints, customize responses, speed up frontend debugging.
+
+⭐ **Stars:** `18`
+📦 **Version:** `v1.0.0`
+💻 **Platform:** `Windows x64`
+
+[👉 Go to Repository](https://github.com/xiaochonger77/mock-forge)
+[👉 Download Release](https://github.com/xiaochonger77/mock-forge/releases)
+
+</td>
+</tr>
+</table>
+</div>
+
+## 🎨 GitHub Overview
+
+<div align="center">
+<img src="https://img.shields.io/badge/contributions-查看贡献-FF2A6D?style=for-the-badge&logo=github&logoColor=white&labelColor=222222" />
+<img src="https://img.shields.io/badge/repos-仓库-70FFB1?style=for-the-badge&logo=git&logoColor=black&labelColor=222222" />
+<img src="https://img.shields.io/badge/stars-获赞-3b82f6?style=for-the-badge&logo=starship&logoColor=white&labelColor=222222" />
+<img src="https://img.shields.io/badge/followers-关注-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=222222" />
+</div>
+
+## 🧪 Random Dev Vibes
+
+<div align="center">
+  <img src="https://img.shields.io/badge/☕-Coffee_Required-F7DF1E?style=flat-square" alt="coffee" />
+  <img src="https://img.shields.io/badge/🐛-Bug_Fixer-FF2A6D?style=flat-square" alt="bug fixer" />
+  <img src="https://img.shields.io/badge/⚡-Debug_Mode-70FFB1?style=flat-square" alt="debug mode" />
+  <img src="https://img.shields.io/badge/🎯-Focus_On_Code-3b82f6?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/🔥-Build_Something_Hot-FF6B35?style=flat-square" alt="build something hot" />
+</div>
+
+
+## 📮 Contact
+
+<div align="center">
+<a href="https://github.com/xiaochonger77">GitHub</a> · 
+<a href="https://github.com/xiaochonger77/mock-forge/issues">MockForge Issues</a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=70FFB1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting;Keep+building+cool+things;MockForge+waits+for+you" />
+  <br>
+  <sub>💚 Crafted by ChongEr_Xiao・枭宠儿</sub>
+</div>
+
